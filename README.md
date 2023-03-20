@@ -26,6 +26,10 @@ Technologies that were used in the FE:
 
 In order to run this application, you need to follow the next instructions: 
 
+Clone Project: 
+* git clone https://github.com/DanielDiSalvo/Financials.git
+* cd into Financials folder
+
 Running Scripts on the BE: 
 * Be sure that you are on the backend folder (cd backend) and run npm install first in order to install all the dependencies. 
 * After that you can execute npm run dev. It will run your application in PORT 3500. You can use POSTMAN or even Thunderbird rest applications
