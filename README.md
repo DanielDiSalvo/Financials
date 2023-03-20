@@ -54,15 +54,15 @@ https://drive.google.com/file/d/1dH9j50lv8KoXdi0WpGH4HwKg-MpOJmWk/view?usp=shari
 
 ## What is left?
 
-* The application can grows. So, it would be nice to work with Jest and React Testing Library in order to write some unit test. 
-* Also it would be nice to define an ATOMIC DESIGN folder structure
-* It would be awesome if we can work with absolutes routes, not relatives in order to avoid (.../.../). Lack of time could not work on it!
+* The application can grows. So, it would be nice to work with Jest and React Testing Library in order to write some unit test (FE and BE)
+* Also it would be nice to define an ATOMIC DESIGN folder structure (FE)
+* It would be awesome if we can work with absolutes routes, not relatives in order to avoid (.../.../). Lack of time could not work on it! (FE)
 * It would be awesome to work with TS also in the BE
-* Working with some ESlint, Prettier and Husky (githooks) should be a MUST in every proyect. 
-* We can improve our imports using some library that can help us with our imports orders in our components
-* Implement authentication
-* In this ocasion, the app is very small. But in the case it gets bigger with a lot of components, and may be we have a login page, we can implement split coding for our routing
-* In this ocasion, I have used Redux-Toolkit, but out there are other really nice tools like RTK, React Query, Zustand, and so on
+* Working with some ESlint, Prettier and Husky (githooks) should be a MUST in every FE proyect. 
+* We can improve our imports using some library that can help us with our imports orders in our components in the FE
+* Implement authentication in the BE
+* In this ocasion, the app is very small. But in the case it gets bigger with a lot of components, and may be we have a login page, we can implement split coding for our routing in the FE
+* In this ocasion, I have used Redux-Toolkit in the FE, but out there are other really nice tools like RTK, React Query, Zustand, and so on
 
 ## How much hours were invested in this proyect?
 I have received this assesment last friday, at the end of the day. I have invisted the follow time, both in fe and be: 
@@ -80,6 +80,8 @@ I have received this assesment last friday, at the end of the day. I have invist
 * Async calls, fetching data and pass data into DataGrid (3hs)
 * Storybook (1,5hs)
 * Documentation (1,5hs)
+
+## Total: 18hs 
 
 ![image](https://user-images.githubusercontent.com/30606588/226444415-2e3a0bd8-7021-4fe5-b0cb-cb7fef0ddcd9.png)
 
