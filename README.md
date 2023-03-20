@@ -38,6 +38,12 @@ Running Scripts on the BE:
 
 ![image](https://user-images.githubusercontent.com/30606588/226442112-2f9a86b7-2592-43d0-ab4c-6c1dd72ebdbc.png)
 
+![image](https://user-images.githubusercontent.com/30606588/226443724-8bfd93c8-743c-4607-b746-9a9adc98209a.png)
+
+![image](https://user-images.githubusercontent.com/30606588/226443828-c7b8fbf5-f7a1-4dca-8b92-15d3e13396d3.png)
+
+
+
 **Video Demo Here**
 
 https://drive.google.com/file/d/1dH9j50lv8KoXdi0WpGH4HwKg-MpOJmWk/view?usp=sharing
@@ -52,5 +58,19 @@ https://drive.google.com/file/d/1dH9j50lv8KoXdi0WpGH4HwKg-MpOJmWk/view?usp=shari
 * Working with some ESlint, Prettier and Husky (githooks) should be a MUST in every proyect. 
 * We can improve our imports using some library that can help us with our imports orders in our components
 
+## How much hours were invested in this proyect?
+I have received this assesment last friday, at the end of the day. I have invisted the follow time, both in fe and be: 
 
+## Backend:
 
+* BE server (2hs)
+* Data Base (3hs)
+* Routers and Controllers and (2hs)
+
+## Frontend: 
+
+* UI (2hs)
+* Redux Setup and features (3hs)
+* Async calls, fetching data and pass data into DataGrid (3hs)
+* Storybook (1,5hs)
+* Documentation (1,5hs)
