@@ -67,6 +67,7 @@ https://drive.google.com/file/d/1dH9j50lv8KoXdi0WpGH4HwKg-MpOJmWk/view?usp=shari
 * Implement authentication in the BE
 * In this ocasion, the app is very small. But in the case it gets bigger with a lot of components, and may be we have a login page, we can implement split coding for our routing in the FE
 * In this ocasion, I have used Redux-Toolkit in the FE, but out there are other really nice tools like RTK, React Query, Zustand, and so on
+* It was not part of this assesment, but this project can continue by completing the other rest CRUD operations
 
 ## How much hours were invested in this proyect?
 I have received this assesment last friday, at the end of the day. I have invisted the follow time, both in fe and be: 
