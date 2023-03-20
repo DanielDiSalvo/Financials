@@ -77,5 +77,5 @@ I have received this assesment last friday, at the end of the day. I have invist
 * Storybook (1,5hs)
 * Documentation (1,5hs)
 
-![image](https://user-images.githubusercontent.com/30606588/226444286-7301db4e-77b3-4542-a47c-c6a6b41b5046.png)
+![image](https://user-images.githubusercontent.com/30606588/226444415-2e3a0bd8-7021-4fe5-b0cb-cb7fef0ddcd9.png)
 
