@@ -59,6 +59,9 @@ https://drive.google.com/file/d/1dH9j50lv8KoXdi0WpGH4HwKg-MpOJmWk/view?usp=shari
 * It would be awesome to work with TS also in the BE
 * Working with some ESlint, Prettier and Husky (githooks) should be a MUST in every proyect. 
 * We can improve our imports using some library that can help us with our imports orders in our components
+* Implement authentication
+* In this ocasion, the app is very small. But in the case it gets bigger with a lot of components, and may be we have a login page, we can implement split coding for our routing
+* In this ocasion, I have used Redux-Toolkit, but out there are other really nice tools like RTK, React Query, Zustand, and so on
 
 ## How much hours were invested in this proyect?
 I have received this assesment last friday, at the end of the day. I have invisted the follow time, both in fe and be: 
