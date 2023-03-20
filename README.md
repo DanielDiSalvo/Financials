@@ -71,7 +71,7 @@ I have received this assesment last friday, at the end of the day. I have invist
 
 * BE server (2hs)
 * Data Base (3hs)
-* Routers and Controllers and (2hs)
+* Routers and Controllers (2hs)
 
 ## Frontend: 
 
