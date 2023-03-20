@@ -1,6 +1,8 @@
 # Financials App
 
-**Welcome to this proyect!**
+**Welcome to Financials App!**
+
+## My name is Daniel Di Salvo. Software developer with over 5 years of demonstrated experience with web development, working mainly with JavaScript and React Js in agile teams.
 
 ## This is a fullstack application. 
 
@@ -74,3 +76,6 @@ I have received this assesment last friday, at the end of the day. I have invist
 * Async calls, fetching data and pass data into DataGrid (3hs)
 * Storybook (1,5hs)
 * Documentation (1,5hs)
+
+![image](https://user-images.githubusercontent.com/30606588/226444286-7301db4e-77b3-4542-a47c-c6a6b41b5046.png)
+
